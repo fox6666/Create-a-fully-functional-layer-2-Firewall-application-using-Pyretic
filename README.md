@@ -14,7 +14,7 @@ project 3：`Create a fully functional layer-2 Firewall application using Pyreti
 
 ## Pyretic policies
  <div align=center>
-    <img width="400" height="170" src="https://github.com/fox6666/Create-a-fully-functional-layer-2-Firewall-application-using-Pyretic/blob/master/images/policies.jpg"       "policies"/>
+    <img width="500" height="300" src="https://github.com/fox6666/Create-a-fully-functional-layer-2-Firewall-application-using-Pyretic/blob/master/images/policies.jpg"       "policies"/>
 </div>
   
 ## Firewall
