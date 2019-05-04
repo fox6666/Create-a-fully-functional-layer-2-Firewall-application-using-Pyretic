@@ -20,7 +20,7 @@ project 3：`Create a fully functional layer-2 Firewall application using Pyreti
 ## Firewall
  * `pyretic_firewall.py`: a skeleton class which you will update with the logic for installing firewall rules.
  * `firewall-policies.csv`:  a list of MAC pairs (i.e., rules) read as input by the firewall application. These pairs are the 
- 　　　　　　　　　　　　　　　　hosts`can’t` communicate with each other.
+ 　　　　　　　　　　　　hosts`can’t` communicate with each other.
  * You can provide the firewall rules in `firewall-policies.csv` and read it into the main function
  * Rules are decided by you!
  * These 2 files can be downloaded `on the course webpage`
