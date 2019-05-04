@@ -9,12 +9,12 @@ project 3：`Create a fully functional layer-2 Firewall application using Pyreti
 
 ## topology
 <div align=center>
-    <img width="759" height="300" src="https://github.com/fox6666/Datacenter-Network-Simulation-using-ns3/blob/master/image/network.png"       "网络拓扑图"/>
+    <img width="759" height="530" src="https://github.com/fox6666/Create-a-fully-functional-layer-2-Firewall-application-using-Pyretic/blob/master/images/network.png"       "网络拓扑图"/>
 </div>
 
 ## Pyretic policies
  <div align=center>
-    <img width="759" height="300" src="https://github.com/fox6666/Datacenter-Network-Simulation-using-ns3/blob/master/image/network.png"       "网络拓扑图"/>
+    <img width="400" height="170" src="https://github.com/fox6666/Create-a-fully-functional-layer-2-Firewall-application-using-Pyretic/blob/master/images/policies.jpg"       "policies"/>
 </div>
   
 ## Firewall
